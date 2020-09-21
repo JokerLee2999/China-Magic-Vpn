@@ -234,7 +234,8 @@ Android：1⃣️ play商店下载clash。2⃣️ 手动下载地址：https://g
 
 ![Alt text](https://github.com/JokerLee2999/China-Magic-network/blob/master/Pay/IMG_0113%202.jpg)
 
-- [x] 微信
+- [x] 微信商店扫码即可
+![Alt text](https://github.com/JokerLee2999/China-Magic-network/blob/master/Pay/IMG_0206.JPG)
 
 - [x] 比特币、以太币
 
