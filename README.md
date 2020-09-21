@@ -230,9 +230,11 @@ Android：1⃣️ play商店下载clash。2⃣️ 手动下载地址：https://g
 
 # 支付方式
 
-- [x] 微信
-
 - [x] 支付宝
+
+![Alt text](https://github.com/JokerLee2999/China-Magic-network/blob/master/Pay/IMG_0113%202.jpg)
+
+- [x] 微信
 
 - [x] 比特币、以太币
 
