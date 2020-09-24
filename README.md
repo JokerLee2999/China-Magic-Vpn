@@ -1,4 +1,4 @@
-# China-Magic-network
+# China-Magic-Vpn
 
 # 中土世界的魔法网络特点😎
 
